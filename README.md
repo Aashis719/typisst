@@ -7,10 +7,9 @@
 
 ---
 
-<!-- UI PREVIEW PLACEHOLDER -->
+<!-- UI PREVIEW -->
 <p align="center">
-  <img src="assets/Typisst-preview.png" alt="TyPisst Application Interface" width="94%" />
-  <br />
+  <img src="./public/assets/Typisst-preview.png" alt="TyPisst Application Interface" width="100%" />
 </p>
 
 ---
@@ -71,17 +70,6 @@ Track your improvement over time with detailed telemetry recorded locally after 
 
 ---
 
-## 🎨 Tailored Aesthetics
-
-Craft your ideal environment with thoughtful personalization options:
-
-* **Color Themes & Accents**: Seamless dark and light modes complemented by refined accent tones:
-  * *Warm Gold*, *Ember*, *Sage Mint*, *Sky Blue*, and *Coral*
-* **Developer Monospace Typography**: Curated font stacks including **JetBrains Mono**, **Fira Code**, **IBM Plex Mono**, and **Roboto Mono**.
-* **Flexible Text Sizing**: Choose between *Compact*, *Balanced*, or *Large* text scales to match your monitor and viewing distance.
-
----
-
 ## ⌨️ Shortcuts Reference
 
 | Shortcut | Action |
@@ -122,15 +110,6 @@ Compile for production deployment:
 ```bash
 npm run build
 ```
-
----
-
-## Design Philosophy
-
-TyPisst is built around three core principles:
-1. **Zero Friction**: The interface gets out of your way. Your hands stay on the home row, with no mandatory mouse clicks or distracting UI clutter.
-2. **Honest Metrics**: Clear distinction between raw keystroke speed and true net accuracy, helping you build sustainable muscle memory.
-3. **Data Privacy**: Your statistics, profile progress, and typing records stay entirely within your local browser storage.
 
 ---
 
